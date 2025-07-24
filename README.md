@@ -1,6 +1,6 @@
 # Customer & Product Analytics – SQL Reporting Views
 
-This project simulates enterprise-grade reporting layers to extract actionable insights from customer and product sales data. It’s designed to reflect how analytics teams at large organizations structure and use data to support business decisions.
+Customer & Product Analytics using SQL Designed and implemented SQL-based reporting views for customer and product analytics. Engineered KPIs such as AOV, customer segmentation, recency, and performance tiers to aid strategic decision-making. Employed dimensional modeling, aggregation logic, and time-based analysis on sales data.
 
 ---
 
